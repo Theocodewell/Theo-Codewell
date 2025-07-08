@@ -18,12 +18,11 @@ I don't just build websites; I engineer ultra-fast, secure, and reliable web sys
 *   **Performance:** Obsessed with sub-150ms TTFB, lean code, and core web vitals.
 *   **Security:** Proactive Server Hardening & Advanced Cloudflare Firewall configurations.
 *   **SEO:** Building technical SEO into the core architecture from day one.
-*   **Stack:** [Your preferred stack: e.g., WordPress (Lean), Node.js, Python, Go, etc.]
+*   **Stack:** [Preferred stack: e.g., WordPress (Lean), Node.js, Python, Go, etc.]
 
 ---
 
 ### 📫 Let's Connect
 
 *   **Website & Case Studies:** [theocodewell.com](https://theocodewell.com)
-*   **LinkedIn:** [https://www.linkedin.com/]
-*   **Twitter / X:** [https://x.com/]
+
