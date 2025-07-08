@@ -24,5 +24,6 @@ I don't just build websites; I engineer ultra-fast, secure, and reliable web sys
 
 ### 📫 Let's Connect
 
-*   **Website & Case Studies:** [theocodewell.com](https://theocodewell.com)
+*   **Website & Case Studies:** [https://theocodewell.com]
+*   **LinkedIn:** [https://www.linkedin.com/in/meowmetoday/]
 
